@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "PZ4F26B89L.com.secret.photo.vault",
+                "paths": [ "/openapp/*" ]
+            }
+        ]
+    }
+}
